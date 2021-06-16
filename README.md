@@ -1,1 +1,1 @@
-[my readme](not an empty file)
+[0x02-shell_redirecions](introduction to shell redirection)
